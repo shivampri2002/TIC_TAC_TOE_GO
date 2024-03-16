@@ -20,7 +20,7 @@ This repository provides a single-player Tic Tac Toe game built with the Fyne GU
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/shivampri2002/TIC_TAC_TOE_GO
+   git clone https://github.com/shivampri2002/TIC_TAC_TOE_GO.git
    cd TIC_TAC_TOE_GO
    ```
 
